@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer | Aspiring SDET | Automation & AI-Driven Testing Enthusiast</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/shri-ops" width="160" style="border-radius:50%" />
+  <img src="https://ca.slack-edge.com/T03BMLYEW-U088BLCGR98-0998510669f6-512" />
 </p>
 
 ---
